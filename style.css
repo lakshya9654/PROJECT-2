@@ -74,7 +74,6 @@ header h1 {
     color: #34495e;
 }
 
-/* Hover effect for cards */
 .card:hover {
     transform: translateY(-5px);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
